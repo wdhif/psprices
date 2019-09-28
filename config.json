@@ -1,0 +1,31 @@
+{
+  "timer": 86400,
+  "gmail": {
+    "host": "smtp.gmail.com",
+    "port": 587,
+    "sender": "",
+    "receiver": "",
+    "password": ""
+  },
+  "feeds": {
+    "XOne": "https://psprices.com/region-fr/rss/discounts/?platform=XOne",
+    "PS4": "https://psprices.com/region-fr/rss/discounts/?platform=PS4",
+    "Switch": "https://psprices.com/region-fr/rss/discounts/?platform=Switch"
+  },
+  "games": {
+    "XOne": [
+      "Halo",
+      "Gears Of War"
+    ],
+    "PS4": [
+      "Kingdom Hearts III",
+      "The Last Of Us Remastered",
+      "Horizon Zero Dawn"
+    ],
+    "Switch": [
+      "The Legend Of Zelda: Breath Of The Wild",
+      "The Legend Of Zelda: Link's Awakening",
+      "Super Mario Odyssey"
+    ]
+  }
+}
