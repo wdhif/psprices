@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Send an email to the configured email adress if a game you want is on sale"""
+"""Send an email to the configured email address if a game you want is on sale"""
 
 import email
 import json
@@ -63,7 +63,7 @@ def parse_configuration():
 
 
 def main():
-    """Send an email to the configured email adress if a game you want is on sale"""
+    """Send an email to the configured email address if a game you want is on sale"""
 
     # Parse configuration and set vars
     try:
